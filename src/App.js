@@ -81,7 +81,7 @@ function App() {
   return (
     <div className="App">
       <div className="header-information">
-        <h1>Peter Li</h1>
+        <h1>Peter Li | Full Stack developer</h1>
         <span className="contect-info">Phone: 403-6162689</span>
         <span className="contect-info"> | </span>
         <span className="contect-info">Email: Peter.xli@outlook.com</span>
