@@ -9,7 +9,7 @@ import './App.css';
 function App() {
   const codeString = `
     /**
-   * Shuffles an array in place using the Fisher-Yates shuffle algorithm.
+   * Shuffles an array in place.
    * @param {Array} array - The array to be shuffled.
    */
   function shuffleArray(array) {
