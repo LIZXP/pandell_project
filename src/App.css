@@ -1,0 +1,27 @@
+.App {
+  width: 90vw;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.number-list-container {
+  height: 350px;
+  width: 100%;
+  overflow-x: hidden;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+.header-information {
+  width: 100%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.contect-info {
+  font-weight: 600;
+  font-size: 20px;
+}
